@@ -30,7 +30,8 @@ To begin using the program, follow these steps:
 1. Download or clone the repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/SopadeGalinha/
+git clone https://github.com/SopadeGalinha/interview-practice/tree/main/C
+
 ```
 
 The repository contains the source code and a Makefile to compile the program.
